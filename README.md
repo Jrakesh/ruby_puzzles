@@ -4,12 +4,14 @@ RubyPuzzles
  * This repository contains three ruby puzzles. 
  * Problem statements are in the README.md file within corresponding problem folder. 
  * Try them once without taking help from the provided solutions. 
- ######## Have fun !!
+
+######## Have fun !!
 
 
 ## Usage/Instructions
 
  * I have used Fedora17 OS for solving these problems. 
+
 ###### Note:-
  * Problem-2 is related with parsing of a CSV file. While running test, it generates one error in country
 _ip_test.rb file.
