@@ -5,7 +5,7 @@ RubyPuzzles
  * Problem statements are in the README.md file within corresponding problem folder. 
  * Try them once without taking help from the provided solutions. 
 
-######## Have fun !!
+###### Have fun !!
 
 
 ## Usage/Instructions
